@@ -1,3 +1,4 @@
 
 
-window.onload=ChangeHTML;
+//window.onload=ChangeHTML;
+window.onload=createNewDivs;
